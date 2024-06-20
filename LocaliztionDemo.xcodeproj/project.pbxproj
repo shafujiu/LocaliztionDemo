@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		813D8DE92C23C1B4000FF5EF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 813D8DE82C23C1B4000FF5EF /* README.md */; };
 		81EBAFE42C22BE6900A925D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBAFE32C22BE6900A925D1 /* AppDelegate.swift */; };
 		81EBAFE62C22BE6900A925D1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBAFE52C22BE6900A925D1 /* SceneDelegate.swift */; };
 		81EBAFE82C22BE6900A925D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBAFE72C22BE6900A925D1 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		813D8DE62C2311A5000FF5EF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		813D8DE82C23C1B4000FF5EF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		81EBAFE02C22BE6900A925D1 /* LocaliztionDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocaliztionDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81EBAFE32C22BE6900A925D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81EBAFE52C22BE6900A925D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 		81EBAFD72C22BE6900A925D1 = {
 			isa = PBXGroup;
 			children = (
+				813D8DE82C23C1B4000FF5EF /* README.md */,
 				81EBAFE22C22BE6900A925D1 /* LocaliztionDemo */,
 				81EBAFE12C22BE6900A925D1 /* Products */,
 			);
@@ -160,6 +163,7 @@
 			files = (
 				81EBAFED2C22BE6B00A925D1 /* Assets.xcassets in Resources */,
 				81EBB0002C22C17F00A925D1 /* Localizable.strings in Resources */,
+				813D8DE92C23C1B4000FF5EF /* README.md in Resources */,
 				81EBAFF02C22BE6B00A925D1 /* Base in Resources */,
 				81EBAFEB2C22BE6900A925D1 /* Base in Resources */,
 			);
